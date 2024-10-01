@@ -31,9 +31,4 @@ This is a simple Inventory Management System built using Django Rest Framework (
 - PostgreSQL
 - Redis
 
-### Steps
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/inventory_management_system.git
