@@ -21,8 +21,6 @@ This is a simple Inventory Management System built using Django Rest Framework (
 - **Python**: Programming language used for development.
 - **Git**: Version control for managing source code.
 
-## Installation
-
 ### Prerequisites
 
 - Python 3.x
