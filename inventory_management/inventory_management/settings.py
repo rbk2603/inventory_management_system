@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'inventory_management.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'SkubiqWMS_DEV1',
-        'USER': 'Skubiq_Dev',
-        'PASSWORD': 'AVyaINV&!222@1',
-        'HOST': '43.205.147.184',
+        'NAME': 'Database_Name',
+        'USER': 'Username',
+        'PASSWORD': 'Password',
+        'HOST': 'HOST NAme',
         'PORT': '5432',
     }
 }
